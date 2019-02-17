@@ -1,2 +1,2 @@
 # Python
-Python for AWS
+Repository for Automating AWS with Python
