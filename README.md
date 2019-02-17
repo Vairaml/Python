@@ -1,2 +1,3 @@
 # Python
-Repository for Automating AWS with Python
+Update the repository for Automating AWS with Python
+Check out
